@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\connection\DatabaseConnection.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\connection\HibernateUtil.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\dao\ProductDAO.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\dao\TransactionDAO.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\dao\UserDAO.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\LoginForm.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\MiniMartGUI.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\model\CartItem.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\model\Product.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\model\Transaction.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\model\TransactionDetail.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\model\User.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\view\AdminDashboardFrame.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\view\CustomerDashboardFrame.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\view\LoginForm.java
+C:\Users\Asus\Documents\NetBeansProjects\MiniMartGUI\src\main\java\com\minimart\minimartgui\view\ProductDetailDialog.java
